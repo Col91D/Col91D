@@ -1,5 +1,3 @@
-None
-<!---
-Col91D/Col91D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im beginner in python i work on projects such as SpotiPY or else... 
+
+SpotiPY - status = indev
