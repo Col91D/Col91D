@@ -1,3 +1,1 @@
 Im beginner in python i work on projects such as SpotiPY or else... 
-
-SpotiPY - status = indev
